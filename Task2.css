@@ -1,0 +1,47 @@
+html {
+    background-color: rgb(123, 155, 77);
+    padding-right: 1%;
+}
+
+img {
+    max-width: 25%;
+}
+
+.image {
+    padding-left: 1%;
+    display: flex;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+h2 {
+    padding-right: 2%;
+}
+
+.s {
+    padding-left: 8%;
+}
+
+.award {
+    padding-left: 2%;
+}
+
+.a {
+    padding-left: 30%;
+    color: indigo;
+}
+
+.b {
+    padding-left: 85%;
+}
+
+.h {
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+ul {
+    font-size: large;
+}
